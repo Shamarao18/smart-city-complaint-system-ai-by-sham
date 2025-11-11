@@ -1,0 +1,76 @@
+# ==================================================
+# 🧹 SMART CITY COMPLAINT AI PROJECT - GITIGNORE
+# Covers: React (Vite) + Node.js (Express) + Flask AI + MongoDB
+# ==================================================
+
+# ------------------------
+# 🌐 Node.js / React (Frontend + Backend)
+# ------------------------
+node_modules/
+.vite/
+dist/
+build/
+uploads/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 🔒 Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 🧱 Cache / Temporary files
+.vite/
+vite.config.js.timestamp*
+vite.config.js.deps.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# ------------------------
+# 🧠 Python / Flask AI Service
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+model.pkl
+venv/
+ai-service/__pycache__/
+ai-service/.env
+ai-service/model.pkl
+ai-service/venv/
+
+# ------------------------
+# 🧾 Database / Secrets
+# ------------------------
+*.db
+*.sqlite
+*.sqlite3
+
+# ------------------------
+# 💻 System / OS Files
+# ------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ------------------------
+# ⚙️ IDE / Editor Folders
+# ------------------------
+.vscode/
+.idea/
+*.swp
+
+# ------------------------
+# 📦 Miscellaneous / Archives
+# ------------------------
+*.zip
+*.tar.gz
+*.rar
+*.7z
+

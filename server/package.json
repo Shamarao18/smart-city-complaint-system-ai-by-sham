@@ -1,0 +1,35 @@
+{
+  "name": "smartcity-complaint-ai-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "author": "Shamarao Patil",
+  "description": "Backend API for Smart City Complaint Management System (AI Integrated) using Node.js, Express, MongoDB, and Flask AI service.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "ai",
+    "smartcity",
+    "complaint-system"
+  ],
+  "dependencies": {
+    "axios": "^1.13.2",
+    "bcryptjs": "^3.0.3",
+    "cloudinary": "^2.8.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.3",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

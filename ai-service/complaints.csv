@@ -1,0 +1,42 @@
+text,label
+Street light not working,Electricity
+No power supply in my area,Electricity
+Transformer burst near my home,Electricity
+Electric pole damaged after storm,Electricity
+Streetlights flickering every night,Electricity
+Short circuit in street wiring,Electricity
+Electric meter not working,Electricity
+Power cut during night,Electricity
+Water leakage from main pipe,Water
+No water supply since morning,Water
+Water tank overflow,Water
+Low water pressure in my tap,Water
+Broken water pipeline near road,Water
+Contaminated drinking water,Water
+Tap water has bad smell,Water
+Water pipeline burst near park,Water
+Potholes on main road,Road
+Broken road near school,Road
+Road flooded after rain,Road
+Damaged speed breakers,Road
+Uneven road surface causing accidents,Road
+Construction debris on road,Road
+Broken footpath,Road
+Manhole open in middle of road,Road
+Garbage not collected from colony,Sanitation
+Overflowing dustbin near my house,Sanitation
+Drainage water on the street,Sanitation
+Unpleasant smell from garbage area,Sanitation
+Mosquitoes breeding near waste dump,Sanitation
+Sewage blocked in street,Sanitation
+Public dustbin broken,Sanitation
+Garbage truck not coming on time,Sanitation
+Roadside trash not removed,Sanitation
+Dirty street after festival,Sanitation
+Street light wire hanging dangerously,Electricity
+Broken streetlight near market,Electricity
+Pipe burst and road flooded,Water
+Sewage water overflowing into road,Sanitation
+Road cracked due to heavy trucks,Road
+Leakage near water meter,Water
+Pothole causing traffic jam,Road
