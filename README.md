@@ -16,10 +16,10 @@ It also provides an **Admin Dashboard** to manage and update complaint statuses.
 
 | Complaint Form | Admin Dashboard |
 |----------------|-----------------|
-| ![Complaint Form](./client/public/screenshots/complaint-form.png) | ![Admin Dashboard](./client/public/screenshots/admin-dashboard.png) |
+| ![Complaint Form](./client/public/screenshots/complaintform.png) | ![Admin Dashboard](./client/public/screenshots/admindashboard.png) |
 
 ### AI Prediction in Action
-![AI Prediction](./client/public/screenshots/ai-prediction.png)
+![AI Prediction](./client/public/screenshots/complaintform.png)
 
 ---
 ## 🚀 Tech Stack
